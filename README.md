@@ -21,7 +21,7 @@ After pressing Launch use the key that we just created in key Pairs
 
 Once the instance is running run the following command in your terminal
 
-$ ssh id_rsa ubuntu@<ip-address>
+$ ssh id_rsa ubuntu@ip-address
 
 Type yes to save the server key fingerprint as a known host
 You should now see ubuntu@ip-address:~$
